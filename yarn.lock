@@ -1932,14 +1932,7 @@
     "@tryghost/debug" "^0.1.9"
     lodash "^4.17.20"
 
-"@tryghost/email-content-generator@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@tryghost/email-content-generator/-/email-content-generator-0.1.0.tgz#cb8233ce70f416cce5f91964e953889580ea815a"
-  integrity sha512-/WXpNA4HgmCA+TEnWg4jwQS9KJOt4cGQNNFuANtt8z//mdbV1IKRK9IamLT/zWGlzYCaw/lLWy/j/UjghPaqtQ==
-  dependencies:
-    html-to-text "^5.1.1"
-
-"@tryghost/email-content-generator@^0.1.1":
+"@tryghost/email-content-generator@0.1.1", "@tryghost/email-content-generator@^0.1.1":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@tryghost/email-content-generator/-/email-content-generator-0.1.1.tgz#95bf2eb1cc8e3eb1c3c0e5d7d4950de30aa30811"
   integrity sha512-FWtIrmCs3EU+RptoTCElTSoxf/HiAfdVe15tGJIQNArJ7OVAA9dQgHGIgXIiK6cvUYoE6KqxGKX15TJsyXc2rQ==
